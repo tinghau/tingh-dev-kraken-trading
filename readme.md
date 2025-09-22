@@ -94,4 +94,4 @@ To submit a trading signal, send a message like this:
 - Move to a scaled long representation for prices and quantities instead of BigDecimal.
 
 ### Further
-Blog post: https://tingh.dev/2025/06/03/kraken-trading.html
+Blog post: https://tingh.dev/2025/06/03/kraken-crypto-trading-app.html
